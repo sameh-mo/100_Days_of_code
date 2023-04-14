@@ -1,8 +1,8 @@
-# calculate your age in months, weeks, Days
+# calculate your age in years, months, weeks, Days
 from datetime import date
 
 
-# get user_age
+# get year the user born in 
 year = int(input("What year were you born?\n"))
 
 # get the current year and subtract it form the year the user born in
